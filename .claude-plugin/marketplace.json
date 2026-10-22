@@ -1,0 +1,14 @@
+{
+  "name": "school-notify",
+  "description": "School notifications for Israeli parents: Webtop (SmartSchool) and Galim Pro.",
+  "owner": {
+    "name": "Igal Avishai"
+  },
+  "plugins": [
+    {
+      "name": "school-notify",
+      "source": "./",
+      "description": "Push notifications for Webtop (SmartSchool) and Galim Pro without Home Assistant."
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+# Webtop needs only the standard library. Playwright is for Galim and for the one-time browser logins.
+playwright>=1.45

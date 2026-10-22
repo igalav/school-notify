@@ -1,0 +1,8 @@
+# Do setup-webtop / setup-galim on a computer with a screen first, then copy data/ here.
+services:
+  school-notify:
+    build: .
+    restart: unless-stopped
+    volumes: ["./data:/data"]
+    environment:
+      TZ: Asia/Jerusalem

@@ -1,0 +1,9 @@
+{
+  "name": "school-notify",
+  "version": "0.1.0",
+  "description": "Push notifications for Webtop (SmartSchool) and Galim Pro without Home Assistant: homework, school messages, lesson events, Galim tasks and grades.",
+  "author": {"name": "Igal Avishai"},
+  "repository": "https://github.com/igalav/school-notify",
+  "license": "MIT",
+  "keywords": ["webtop", "smartschool", "galim", "israel", "school", "notifications"]
+}
